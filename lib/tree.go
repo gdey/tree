@@ -191,4 +191,4 @@ func GetFileEntryForDirWithThreadSize(name string, threadSize int) *FileEntry {
 
 // GetFileEntryForDir This is a convience function that just calls GetFileEntryForDirWithThreadSize,
 // with the threadSize set to 200.
-func GetFileEntryForDir(name string) *FileEntry { return GetFileForDirWithThreadSize(name, 200) }
+func GetFileEntryForDir(name string) *FileEntry { return GetFileEntryForDirWithThreadSize(name, 200) }
