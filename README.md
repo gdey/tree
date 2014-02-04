@@ -6,6 +6,9 @@ recently when I upgrade, the Perl verison stop working because of missing depend
 and I thought I rewrite in Go, to give Go a go. So, far is just does the basics
 but I would love to hear how I could imporve it and/or code.
 
+[![baby-gopher](https://raw2.github.com/drnic/babygopher-site/gh-pages/images/babygopher-badge.png)](http://www.babygopher.org)
+
+
 # License 
 
 Copyright (c) 2014, Gautam Dey
